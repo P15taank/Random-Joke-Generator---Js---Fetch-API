@@ -9,4 +9,4 @@
 ## Time Spent
 I spent half 1 hours to complete this project
 ## Live Link
-Preview the project [Here]()
+Preview the project [Here](https://randomjokegeneratorfetchapi.netlify.app/)
